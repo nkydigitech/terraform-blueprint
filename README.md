@@ -32,4 +32,15 @@ To begin your journey, head over to the [What is Terraform?](docs/01-What-is-Ter
 - A code editor (we recommend [VS Code](https://code.visualstudio.com/))
 
 ---
+## 🤝 Connect with Me
+
+If you found this blueprint helpful, let's connect!
+
+- **LinkedIn**: [Nkechi Ahanonye](https://www.linkedin.com/in/nkechiahanonye)
+- **X (Twitter)**: [@NAhanonye](https://www.x.com/NAhanonye)
+- **Facebook**: [NkyDigitech](https://web.facebook.com/nkydigitech)
+- **Instagram**: [@nahanonye](https://www.instagram.com/nahanonye/)
+- **TikTok**: [@nkechiahanonye](https://www.tiktok.com/@nkechiahanonye?lang=en)
+
+---
 *Built with ❤️ for the DevOps community.*
