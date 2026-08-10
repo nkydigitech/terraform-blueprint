@@ -1,3 +1,9 @@
+![Terraform](https://img.shields.io/badge/Terraform-v1.15.2-7B42BC?logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker)
+![LocalStack](https://img.shields.io/badge/LocalStack-AWS%20Locally-00A5B8)
+![No Bill](https://img.shields.io/badge/Cost-%240%20Bill-success)
+![Windows](https://img.shields.io/badge/Windows-Fixed-0078D6?logo=windows)
+
 # 🏗️ Terraform Blueprint: Zero to Hero
 
 Welcome to **Terraform Blueprint**, the ultimate guide to mastering Infrastructure as Code (IaC) from the ground up. This repository is designed to take you from a complete beginner to a production-ready Terraform engineer using a **Local-First** approach.
