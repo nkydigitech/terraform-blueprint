@@ -6,6 +6,12 @@
 
 # 🏗️ Terraform Blueprint: Zero to Hero
 
+**Built by [Nkechi Anna Ahanonye](https://www.linkedin.com/in/nkechiahanonye) — Cloud & DevOps Engineer | AWS · Ansible · Terraform · K8s | Training the Next Generation of African DevOps Engineers | Open to Remote Roles**
+
+For DevOps students who need relatable, hands-on examples — not textbook theory.
+
+---
+
 Welcome to **Terraform Blueprint**, the ultimate guide to mastering Infrastructure as Code (IaC) from the ground up. This repository is designed to take you from a complete beginner to a production-ready Terraform engineer using a **Local-First** approach.
 
 ## 🌟 Why Terraform?
@@ -47,6 +53,8 @@ If you found this blueprint helpful, let's connect!
 - **Facebook**: [NkyDigitech](https://web.facebook.com/nkydigitech)
 - **Instagram**: [@nahanonye](https://www.instagram.com/nahanonye/)
 - **TikTok**: [@nkechiahanonye](https://www.tiktok.com/@nkechiahanonye?lang=en)
+- **Portfolio**: [nkydigitech.github.io/nky-portfolio](https://nkydigitech.github.io/nky-portfolio/)
 
 ---
-*Built with ❤️ for the DevOps community.*
+
+*Built with ❤️ for the DevOps community. Especially for African engineers who deserve accessible, relatable learning resources.*
